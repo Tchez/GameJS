@@ -1,6 +1,9 @@
+[![Captura de Tela do Jogo](./image.png)](https://tchez.github.io/GameJS/)
+
 # Jogo de Projéteis
 
-Esse projeto foi feito em resposta à avaliação da matéria de computação gráfica. O objetivo era fazer um jogo simples onde dois jogadores competem para acertar um ao outro, lançando um projétil em uma arena interativa. 
+Esse jogo foi feito apenas com JS, em resposta à avaliação da matéria de computação gráfica. O objetivo era fazer um jogo simples onde dois jogadores competem para acertar um ao outro, lançando um projétil em uma arena interativa. 
+[Jogar](https://tchez.github.io/GameJS/)
 
 ## Funcionalidades
 
